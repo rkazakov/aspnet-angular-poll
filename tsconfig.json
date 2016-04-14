@@ -21,5 +21,11 @@
   ],
   "atom": {
     "rewriteTsconfig": true
-  }
+  },
+  "files": [
+    "./dev/app.component.ts",
+    "./dev/books/books.component.ts",
+    "./dev/main.ts",
+    "./dev/vehicles.component.ts"
+  ]
 }
